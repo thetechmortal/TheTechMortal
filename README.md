@@ -14,10 +14,10 @@ Main Skills: PHP (OOP & Core) / AJAX / REST API / JAVASCRIPT/ JQUERY
 - 📫 How to reach me: thetechmortal@gmail.com 
 - ⚡ Fun fact: Like to Travel & Eat 🥘 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thetechmortal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thetechmortal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/developer.sabbir.bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thetechmortal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](skype:) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefoxbrowser.svg' alt='website' height='40'>](https://www.thetechmortal.xyz/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thetechmortal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thetechmortal/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thetechmortal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/thetechmortal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg' alt='skype' height='40'>](skype:) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefoxbrowser.svg' alt='website' height='40'>](https://www.thetechmortal.xyz/) 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SkSabbirBD)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thetechmortal)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thetechmortal&show_icons=true&count_private=true&theme=radical)  
 
